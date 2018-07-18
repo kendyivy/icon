@@ -1,0 +1,166 @@
+.cont{
+  width:400px;
+  height:300px;
+  background-color: #6a5acd;
+  margin: 0 auto;
+
+
+}
+.fa-user{
+  background-color: #787878;
+  color: white;
+  width:70px;
+  height: 70px;
+  text-align: center;
+  display: inline-block;
+
+}
+.fa-thumbs-o-up{
+  background-color: #787878;
+  color:white;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+
+}
+.fa-heart{
+  background-color: #787878;
+  color:white;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+
+
+}
+.fa-h-square{
+  background-color: #787878;
+  color:white;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  position: relative;
+  bottom: -100px;
+  margin-left: -220px;
+
+}
+
+.fa-ambulance{
+  background-color: #787878;
+  color:white;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  position: relative;
+  bottom: -100px;
+
+}
+.fa-facebook-square{
+  background-color: #787878;
+  color:white;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  position: relative;
+  bottom: -100px;
+
+}
+.fa-soundcloud{
+  background-color: #787878;
+  color:white;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  position: relative;
+  bottom: -190px;
+  right: 220px;
+
+}
+.fa-whatsapp{
+  background-color: #787878;
+  color:white;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  position: relative;
+  bottom: -190px;
+  right: 220px;
+
+}
+.fa-youtube-square{
+  background-color: #787878;
+  color:white;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  position: relative;
+  bottom: -190px;
+  margin-right: -75px;
+  margin-top: 25px;
+  margin-left: -215px;
+
+}
+.fa-file-text{
+  background-color: #787878;
+  color:white;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  position: relative;
+  margin-left: 70px;
+  margin-bottom: -30px;
+
+}
+.fa-th{
+  background-color: #787878;
+  color:white;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+
+}
+.fa-thumbs-down{
+  background-color: #787878;
+  color:white;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  position: fixed;
+  top: 125px;
+  margin-left:-140px;
+
+}
+.fa-address-book{
+  background-color: #787878;
+  color:white;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  position: fixed;
+  top: 125px;
+  margin-left:-60px;
+
+
+}
+.fa-arrows{
+  background-color: #787878;
+  color:white;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  position: relative;
+  bottom: -120px;
+  right: -230px;
+  
+}
+.fa-battery-4{
+  background-color: #787878;
+  color:white;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  position: relative;
+  margin-left:230px;
+  bottom: -119px;
+
+
+}
